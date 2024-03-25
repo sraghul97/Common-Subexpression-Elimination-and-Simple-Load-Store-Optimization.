@@ -1,0 +1,9 @@
+CSEStore2Load,6
+CSELdElim,27
+CSESimplify,46
+CSEDead,46
+CSEElim,9
+Functions,6
+Instructions,968
+Stores,108
+Loads,345

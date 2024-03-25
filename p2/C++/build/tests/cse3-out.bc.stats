@@ -1,0 +1,6 @@
+CSELdElim,1
+CSESimplify,1
+CSEDead,1
+Functions,1
+Instructions,4
+Loads,1
